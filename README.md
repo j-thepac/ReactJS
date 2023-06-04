@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+[ Tutorial ](https://gist.github.com/j-thepac/40970dc27f1ba2269d62f0da51dcc13d)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
